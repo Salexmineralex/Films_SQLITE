@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SQLITE Alejandro Sanchez Torres</string>
+    <string name="nombre">Name</string>
+    <string name="genero">Gender</string>
+    <string name="director">Director</string>
+    <string name="Sel">Select Image</string>
+    <string name="Add_New">Add Film</string>
+    <string name="sinopsis">Sinopsis </string>
+    <string name="duracion">Duration</string>
+    <string name="añadirpeli">Add Film</string>
+    <string name="listaVacia">Lista Vacia</string>
+    <string name="jugar">Play Puzzle</string>
+    <string name="password">Password</string>
+    <string name="CrearCuenta">Create Account</string>
+    <string name="error">Error! Account no existente</string>
+    <string name="Borrar">Delete Film</string>
+    <string name="Editar">Edit Film</string>
+    <string name="confir">Confirm Password</string>
+    <string name="edit">Edit</string>
+    <string name="EditarP">Edit Film</string>
+</resources>
